@@ -12,5 +12,10 @@ public class CharAndForLoop {
         for (char kChar ='Z'; kChar >='A'; kChar--) {
             System.out.print(kChar+" ");
         }
+
+
+        int star3='a';
+        System.out.println( star3);
+
     }
 }
