@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e824dc02-623b-4300-b8a3-904e0147f4e8" name="Default Changelist" comment="">
+    <list default="true" id="e824dc02-623b-4300-b8a3-904e0147f4e8" name="Default Changelist" comment="second time commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramingB15Online/Assignments/AllStringAnatomy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramingB15Online/Assignments/TipCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramingB15Online/day19/CharAndForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramingB15Online/day19/CharAndForLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramingB15Online/day20/ForLoopFindDogInASentence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramingB15Online/day20/ForLoopFindDogInASentence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignments/AllStringAnatomy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/_0AllStringAnatomy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignments/TipCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/_90TipCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day19/CharAndForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day19/CharAndForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day20/ForLoopFindDogInASentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day20/ForLoopFindDogInASentence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +151,19 @@
       <option name="presentableId" value="Default" />
       <updated>1573404497948</updated>
     </task>
+    <task id="LOCAL-00001" summary="second time commit">
+      <created>1577045144945</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577045144945</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second time commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second time commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="443" y="232" width="394" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576419625234">
@@ -167,11 +171,19 @@
     </state>
     <state x="443" y="232" width="394" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576419625234" />
     <state x="2585" y="355" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576247209106" />
+    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1577045248262">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577045248262" />
     <state x="2127" y="150" key="FileChooserDialogImpl" timestamp="1576928571928">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="138" y="98" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1575381004472" />
     <state x="2127" y="150" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576928571928" />
+    <state x="478" y="239" key="Github.ShareDialog" timestamp="1577045525399">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="478" y="239" key="Github.ShareDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577045525399" />
     <state width="403" height="553" key="GridCell.Tab.0.bottom" timestamp="1577040259539">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -216,10 +228,14 @@
     </state>
     <state width="1237" height="2" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576359692661" />
     <state width="1877" height="20" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576459022549" />
-    <state x="51" y="0" key="SettingsEditor" timestamp="1577044949603">
+    <state x="51" y="0" key="SettingsEditor" timestamp="1577045414628">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="51" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577044949603" />
+    <state x="51" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577045414628" />
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1577045326522">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577045326522" />
     <state x="411" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576954751450">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
