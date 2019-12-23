@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e824dc02-623b-4300-b8a3-904e0147f4e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day32/newone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32/fortry.java" afterDir="false" />
-    </list>
+    <list default="true" id="e824dc02-623b-4300-b8a3-904e0147f4e8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +19,32 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="github/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--tags" />
@@ -50,7 +73,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.MethodWithReturnPractice">
+  <component name="RunManager" selected="Application.WarmUp">
     <configuration name="CharAction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day32.CharAction" />
       <module name="JavaProgramingB15Online" />
@@ -116,6 +139,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WarmUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day32.WarmUp" />
+      <module name="JavaProgramingB15Online" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day32.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_118" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignments._118" />
       <module name="JavaProgramingB15Online" />
@@ -131,6 +167,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WarmUp" />
         <item itemvalue="Application.NumberAction" />
         <item itemvalue="Application.CharAction2" />
         <item itemvalue="Application.CharAction" />
@@ -217,7 +254,21 @@
       <option name="project" value="LOCAL" />
       <updated>1577066688764</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="day:32">
+      <created>1577067041751</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1577067041751</updated>
+    </task>
+    <task id="LOCAL-00010" summary="day:32">
+      <created>1577067059229</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1577067059229</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -233,19 +284,23 @@
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="233" y="2" key="#Notifications" timestamp="1577067140250">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="2" key="#Notifications/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577067140250" />
     <state x="443" y="232" width="394" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576419625234">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="443" y="232" width="394" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576419625234" />
     <state x="2585" y="355" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576247209106" />
-    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1577067040216">
+    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1577067257408">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577067040216" />
-    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog" timestamp="1577066523091">
+    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577067257408" />
+    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog" timestamp="1577067105075">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577066523091" />
+    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577067105075" />
     <state x="2127" y="150" key="FileChooserDialogImpl" timestamp="1576928571928">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -303,10 +358,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="51" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577046448459" />
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1577067006185">
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1577067106951">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577067006185" />
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577067106951" />
     <state x="411" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576954751450">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
