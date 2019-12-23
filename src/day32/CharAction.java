@@ -22,7 +22,7 @@ public class CharAction {
             }
             System.out.println();
             System.out.println("change for GITHUB");
-
+            System.out.println("seccond trying");
 
         }
 

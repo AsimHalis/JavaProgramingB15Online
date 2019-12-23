@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e824dc02-623b-4300-b8a3-904e0147f4e8" name="Default Changelist" comment="" />
+    <list default="true" id="e824dc02-623b-4300-b8a3-904e0147f4e8" name="Default Changelist" comment="Add new printout">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -297,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577118331367</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Add new printout">
+      <created>1577118395460</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1577118395460</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -331,15 +340,16 @@
     </state>
     <state x="443" y="232" width="394" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576419625234" />
     <state x="2585" y="355" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576247209106" />
-    <state x="2289" y="0" key="CommitChangelistDialog2" timestamp="1577118329879">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577117610239" />
-    <state x="2289" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577118329879" />
-    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog" timestamp="1577117580819">
+    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1577119634552">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577117580819" />
+    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577119634552" />
+    <state x="2289" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577118394179" />
+    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog" timestamp="1577119631155">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577119631155" />
+    <state x="2097" y="76" key="DiffContextDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577118387869" />
     <state x="2127" y="150" key="FileChooserDialogImpl" timestamp="1576928571928">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -393,10 +403,14 @@
     </state>
     <state width="1237" height="2" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576359692661" />
     <state width="1877" height="20" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576459022549" />
-    <state x="51" y="0" key="SettingsEditor" timestamp="1577046448459">
+    <state x="349" y="54" key="RollbackChangesDialog" timestamp="1577119611205">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="51" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577046448459" />
+    <state x="349" y="54" key="RollbackChangesDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577119611205" />
+    <state x="37" y="0" key="SettingsEditor" timestamp="1577118831955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="37" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577118831955" />
     <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1577117548648">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -406,19 +420,19 @@
     </state>
     <state x="411" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576954751450" />
     <state x="2537" y="137" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576706124049" />
-    <state x="2598" y="396" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577118373751">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="452" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577119842337">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="452" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577117433570" />
+    <state x="452" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577119842337" />
     <state x="2598" y="396" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577118373751" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1576722948963">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="297" y="151" key="run.anything.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576722948963" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1577032181316">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1577118848376">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577032181316" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577118848376" />
     <state x="2375" y="2" width="1008" height="1037" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576928555428" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
