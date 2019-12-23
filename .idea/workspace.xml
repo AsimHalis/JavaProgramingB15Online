@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e824dc02-623b-4300-b8a3-904e0147f4e8" name="Default Changelist" comment="Add new printout">
+    <list default="true" id="e824dc02-623b-4300-b8a3-904e0147f4e8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day32/CharAction2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32/CharAction2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,9 +65,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Application.WarmUp">
@@ -306,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577118395460</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="printout new one">
+      <created>1577119874637</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1577119874637</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -321,14 +329,13 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="second time commit" />
     <MESSAGE value="four time" />
     <MESSAGE value="day 15 for java" />
     <MESSAGE value="day:32" />
     <MESSAGE value="Add new printout" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new printout" />
+    <MESSAGE value="printout new one" />
+    <option name="LAST_COMMIT_MESSAGE" value="printout new one" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="2" key="#Notifications" timestamp="1577067140250">
@@ -340,10 +347,10 @@
     </state>
     <state x="443" y="232" width="394" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576419625234" />
     <state x="2585" y="355" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576247209106" />
-    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1577119634552">
+    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1577119873110">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577119634552" />
+    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577119873110" />
     <state x="2289" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577118394179" />
     <state x="118" y="50" width="1037" height="580" key="DiffContextDialog" timestamp="1577119631155">
       <screen x="0" y="0" width="1280" height="680" />
@@ -407,14 +414,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="349" y="54" key="RollbackChangesDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577119611205" />
-    <state x="37" y="0" key="SettingsEditor" timestamp="1577118831955">
+    <state x="37" y="0" key="SettingsEditor" timestamp="1577120053741">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="37" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577118831955" />
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1577117548648">
+    <state x="37" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577120053741" />
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1577120086822">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577117548648" />
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577120086822" />
     <state x="411" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576954751450">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

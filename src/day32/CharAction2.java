@@ -33,6 +33,7 @@ public class CharAction2 {
                 }
             else{
                 System.out.println("Charakters are Same");
+                System.out.println("deneme2");
             }
             }
         }
