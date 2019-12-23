@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e824dc02-623b-4300-b8a3-904e0147f4e8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day32/CharAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32/CharAction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
       </branch-storage>
     </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/day31/SeasonChecker.java" root0="FORCE_HIGHLIGHTING" />
@@ -286,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577067427612</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add new printout">
+      <created>1577117611734</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1577117611734</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -298,7 +304,8 @@
     <MESSAGE value="four time" />
     <MESSAGE value="day 15 for java" />
     <MESSAGE value="day:32" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Add new printout" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new printout" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -312,14 +319,14 @@
     </state>
     <state x="443" y="232" width="394" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576419625234" />
     <state x="2585" y="355" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576247209106" />
-    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1577113156030">
+    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1577117610239">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577113156030" />
-    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog" timestamp="1577117525837">
+    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577117610239" />
+    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog" timestamp="1577117580819">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577117525837" />
+    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577117580819" />
     <state x="2127" y="150" key="FileChooserDialogImpl" timestamp="1576928571928">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -386,10 +393,11 @@
     </state>
     <state x="411" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576954751450" />
     <state x="2537" y="137" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576706124049" />
-    <state x="452" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577117433570">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="2598" y="396" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577117800623">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="452" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577117433570" />
+    <state x="2598" y="396" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577117800623" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1576722948963">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
