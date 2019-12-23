@@ -1,6 +1,6 @@
 package day32;
 
-public class newone {
+public class fortry {
     public static void main(String[] args) {
 
     }
