@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e824dc02-623b-4300-b8a3-904e0147f4e8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day32/IcanDoIt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day32/fortry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day32/newDeneme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day32/CharAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32/CharAction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -318,10 +316,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577113156030" />
-    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog" timestamp="1577067459928">
+    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog" timestamp="1577117525837">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577067459928" />
+    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577117525837" />
     <state x="2127" y="150" key="FileChooserDialogImpl" timestamp="1576928571928">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -379,19 +377,19 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="51" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577046448459" />
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1577067462009">
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1577117548648">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577067462009" />
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577117548648" />
     <state x="411" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576954751450">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="411" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576954751450" />
     <state x="2537" y="137" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576706124049" />
-    <state x="452" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577066499559">
+    <state x="452" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577117433570">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="452" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577066499559" />
+    <state x="452" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577117433570" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1576722948963">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

@@ -1,9 +1,5 @@
 package day32;
 
-import org.w3c.dom.ls.LSOutput;
-
-import javax.crypto.spec.PSource;
-
 public class CharAction {
     public static void main(String[] args) {
 
@@ -25,6 +21,7 @@ public class CharAction {
                 System.out.print(i + " ");
             }
             System.out.println();
+            System.out.println("change for GITHUB");
 
 
         }
