@@ -71,7 +71,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodWithReturnPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MethodWithReturnPractice" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day32.MethodWithReturnPractice" />
       <module name="JavaProgramingB15Online" />
       <extension name="coverage">
@@ -125,7 +125,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodWithReturnPractice" />
         <item itemvalue="Application.NumberAction" />
         <item itemvalue="Application.CharAction2" />
         <item itemvalue="Application.CharAction" />
@@ -219,14 +218,14 @@
     </state>
     <state x="443" y="232" width="394" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576419625234" />
     <state x="2585" y="355" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576247209106" />
-    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1577053912576">
+    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1577066524525">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577053912576" />
-    <state x="118" y="50" key="DiffContextDialog" timestamp="1577052381856">
+    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577066524525" />
+    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog" timestamp="1577066523091">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="118" y="50" key="DiffContextDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577052381856" />
+    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577066523091" />
     <state x="2127" y="150" key="FileChooserDialogImpl" timestamp="1576928571928">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -293,10 +292,10 @@
     </state>
     <state x="411" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576954751450" />
     <state x="2537" y="137" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576706124049" />
-    <state x="452" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577054036620">
+    <state x="452" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577066499559">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="452" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577054036620" />
+    <state x="452" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577066499559" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1576722948963">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
