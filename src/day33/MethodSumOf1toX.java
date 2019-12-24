@@ -1,6 +1,6 @@
 package day33;
 
-public class SumOf1toX {
+public class MethodSumOf1toX {
     public static void main(String[] args) {
         System.out.println(sum1ToX(10));
 

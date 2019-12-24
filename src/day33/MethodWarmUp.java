@@ -1,6 +1,6 @@
 package day33;
 
-public class WarmUp {
+public class MethodWarmUp {
     public static void main(String[] args) {
          String spelledName=getSpelledName("Asim");
         System.out.println("spelledName = "+ spelledName);
