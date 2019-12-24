@@ -6,6 +6,7 @@ public class MethodWarmUp {
         System.out.println("spelledName = "+ spelledName);
        System.out.println(getSpelledName("Halis"));
         System.out.println(getSpelledName2("Furkan"));
+        System.out.println("Eren");
     }
 
     public static String getSpelledName(String name){

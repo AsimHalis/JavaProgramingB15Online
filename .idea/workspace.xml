@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e824dc02-623b-4300-b8a3-904e0147f4e8" name="Default Changelist" comment="Day-33 Spelling Name">
+    <list default="true" id="e824dc02-623b-4300-b8a3-904e0147f4e8" name="Default Changelist" comment="Day-33 Sumof1ToX">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day33/SumOf1toX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day33/MethodSumOf1toX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day33/WarmUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day33/MethodWarmUp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,13 +77,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager">
-    <configuration name="CharAction2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32.CharAction2" />
+  <component name="RunManager" selected="Application.MethodWarmUp">
+    <configuration name="ConvertToNumberToDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day33.ConvertToNumberToDay" />
       <module name="JavaProgramingB15Online" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day32.*" />
+          <option name="PATTERN" value="day33.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,6 +97,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodReturnPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day33.MethodReturnPractice" />
+      <module name="JavaProgramingB15Online" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day33.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,19 +156,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberAction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32.NumberAction" />
-      <module name="JavaProgramingB15Online" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day32.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WarmUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day32.WarmUp" />
       <module name="JavaProgramingB15Online" />
@@ -186,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConvertToNumberToDay" />
+        <item itemvalue="Application.MethodReturnPractice" />
         <item itemvalue="Application.MethodSumOf1toX" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.WarmUp" />
-        <item itemvalue="Application.NumberAction" />
-        <item itemvalue="Application.CharAction2" />
       </list>
     </recent_temporary>
   </component>
@@ -392,7 +390,28 @@
       <option name="project" value="LOCAL" />
       <updated>1577149032992</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Day-33 Spelling Name">
+      <created>1577149227144</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1577149227144</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Day-33 Sumof1ToX">
+      <created>1577149314564</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1577149314564</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Day-33 EmailMethod">
+      <created>1577152041301</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1577152041301</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -469,9 +488,11 @@
     <MESSAGE value="gitignore" />
     <MESSAGE value="adding java" />
     <MESSAGE value="Day-33 Warm Up" />
-    <MESSAGE value="Day-33 Spelling Name" />
     <MESSAGE value="Day-33 Sum1ToX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day-33 Sum1ToX" />
+    <MESSAGE value="Day-33 Spelling Name" />
+    <MESSAGE value="Day-33 Sumof1ToX" />
+    <MESSAGE value="Day-33 EmailMethod" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day-33 EmailMethod" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="2" key="#Notifications" timestamp="1577067140250">
@@ -483,15 +504,15 @@
     </state>
     <state x="443" y="232" width="394" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576419625234" />
     <state x="2585" y="355" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576247209106" />
-    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1577149225499">
+    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1577154713106">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577149225499" />
+    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577154713106" />
     <state x="2289" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577118394179" />
-    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog" timestamp="1577148174777">
+    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog" timestamp="1577149355722">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577148174777" />
+    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577149355722" />
     <state x="2097" y="76" key="DiffContextDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577118387869" />
     <state x="2127" y="150" key="FileChooserDialogImpl" timestamp="1576928571928">
       <screen x="1920" y="0" width="1920" height="1040" />
@@ -502,28 +523,28 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="478" y="239" key="Github.ShareDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577121628291" />
-    <state width="349" height="553" key="GridCell.Tab.0.bottom" timestamp="1577148645962">
+    <state width="349" height="523" key="GridCell.Tab.0.bottom" timestamp="1577154649393">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="349" height="553" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577148645962" />
+    <state width="349" height="523" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577154649393" />
     <state width="468" height="912" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576929707541" />
     <state width="1237" height="39" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1574964459413" />
-    <state width="349" height="553" key="GridCell.Tab.0.center" timestamp="1577148645962">
+    <state width="349" height="523" key="GridCell.Tab.0.center" timestamp="1577154649393">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="349" height="553" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577148645962" />
+    <state width="349" height="523" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577154649393" />
     <state width="468" height="912" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576929707541" />
     <state width="1237" height="39" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1574964459413" />
-    <state width="349" height="553" key="GridCell.Tab.0.left" timestamp="1577148645962">
+    <state width="349" height="523" key="GridCell.Tab.0.left" timestamp="1577154649393">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="349" height="553" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577148645962" />
+    <state width="349" height="523" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577154649393" />
     <state width="468" height="912" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576929707541" />
     <state width="1237" height="39" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1574964459412" />
-    <state width="349" height="553" key="GridCell.Tab.0.right" timestamp="1577148645962">
+    <state width="349" height="523" key="GridCell.Tab.0.right" timestamp="1577154649393">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="349" height="553" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577148645962" />
+    <state width="349" height="523" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577154649393" />
     <state width="468" height="912" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576929707541" />
     <state width="1237" height="39" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1574964459413" />
     <state width="1877" height="20" key="GridCell.Tab.1.bottom" timestamp="1576459022549">
@@ -554,19 +575,19 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="37" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577120053741" />
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1577149285279">
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1577154706573">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577149285279" />
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577154706573" />
     <state x="411" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576954751450">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="411" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576954751450" />
     <state x="2537" y="137" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576706124049" />
-    <state x="452" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577148200944">
+    <state x="452" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577152003820">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="452" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577148200944" />
+    <state x="452" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577152003820" />
     <state x="2598" y="396" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577118373751" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1576722948963">
       <screen x="0" y="0" width="1280" height="680" />
