@@ -2,7 +2,7 @@ package Assignments;
 
 import java.sql.SQLOutput;
 
-public class _0AllStringAnatomy {
+public class _0AllStringMethods {
     public static void main(String[] args) {
         //char index 01234
           String s1="Halis";
