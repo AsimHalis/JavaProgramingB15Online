@@ -14,7 +14,7 @@ public class PracticeMethodWithNumbers {
         System.out.println(build3DigitNumbers(12,4,67));//40
         System.out.println(build3DigitNumbers(9,3,8));//938
         System.out.println(build3DigitNumbers(11,34,87));//0
-
+        System.out.println();
     }
     //1, write a method called build3DigitNumber
    // it has 3 int parameters digit1 digit2 digit3
