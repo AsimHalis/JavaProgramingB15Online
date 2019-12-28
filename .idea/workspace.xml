@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e824dc02-623b-4300-b8a3-904e0147f4e8" name="Default Changelist" comment="" />
+    <list default="true" id="e824dc02-623b-4300-b8a3-904e0147f4e8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramingB15Online/day31/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramingB15Online/day31/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramingB15Online/day31/MethodIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramingB15Online/day31/MethodIntro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day31/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day31/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day31/MethodIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day31/MethodIntro.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,13 +81,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.MethodSumOf1toX">
-    <configuration name="ConvertToNumberToDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day33.ConvertToNumberToDay" />
+  <component name="RunManager" selected="Application.LoginActivity">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31.Calculator" />
       <module name="JavaProgramingB15Online" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day33.*" />
+          <option name="PATTERN" value="day31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01.Main" />
+    <configuration name="LoginActivity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34.LoginActivity" />
       <module name="JavaProgramingB15Online" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day01.*" />
+          <option name="PATTERN" value="day34.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodReturnPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day33.MethodReturnPractice" />
+    <configuration name="MathAction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34.MathAction" />
       <module name="JavaProgramingB15Online" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day33.*" />
+          <option name="PATTERN" value="day34.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodSumOf1toX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day33.MethodSumOf1toX" />
+    <configuration name="MathActionFromJDK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34.MathActionFromJDK" />
       <module name="JavaProgramingB15Online" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day33.*" />
+          <option name="PATTERN" value="day34.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WarmUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32.WarmUp" />
+    <configuration name="PracticeMethodWithNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34.PracticeMethodWithNumbers" />
       <module name="JavaProgramingB15Online" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day32.*" />
+          <option name="PATTERN" value="day34.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodSumOf1toX" />
-        <item itemvalue="Application.ConvertToNumberToDay" />
-        <item itemvalue="Application.MethodReturnPractice" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.WarmUp" />
+        <item itemvalue="Application.LoginActivity" />
+        <item itemvalue="Application.MathActionFromJDK" />
+        <item itemvalue="Application.MathAction" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.PracticeMethodWithNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -423,7 +429,70 @@
       <option name="project" value="LOCAL" />
       <updated>1577154721809</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Day-33 SumOf1ToX">
+      <created>1577154828022</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1577154828022</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Day-33 Return Method practice1">
+      <created>1577156589519</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1577156589519</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Day-33 Return Method practice2">
+      <created>1577156617203</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1577156617203</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Day-34 Return Method practice Numaber">
+      <created>1577552663055</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1577552663055</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Day-34 Return Method practice Number">
+      <created>1577552723872</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1577552723872</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Day-34 Return Method practice Name">
+      <created>1577552783768</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1577552783768</updated>
+    </task>
+    <task id="LOCAL-00037" summary="office hours-Method practice1">
+      <created>1577552840991</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1577552840991</updated>
+    </task>
+    <task id="LOCAL-00038" summary="office hours-Method practice2">
+      <created>1577552876061</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1577552876061</updated>
+    </task>
+    <task id="LOCAL-00039" summary="day34-Math Action">
+      <created>1577555495930</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1577555495930</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -506,7 +575,16 @@
     <MESSAGE value="Day-33 EmailMethod" />
     <MESSAGE value="Day-33 DayconverterMethod" />
     <MESSAGE value="Day-33 SpelinNameMethod" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day-33 SpelinNameMethod" />
+    <MESSAGE value="Day-33 SumOf1ToX" />
+    <MESSAGE value="Day-33 Return Method practice1" />
+    <MESSAGE value="Day-33 Return Method practice2" />
+    <MESSAGE value="Day-34 Return Method practice Numaber" />
+    <MESSAGE value="Day-34 Return Method practice Number" />
+    <MESSAGE value="Day-34 Return Method practice Name" />
+    <MESSAGE value="office hours-Method practice1" />
+    <MESSAGE value="office hours-Method practice2" />
+    <MESSAGE value="day34-Math Action" />
+    <option name="LAST_COMMIT_MESSAGE" value="day34-Math Action" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="2" key="#Notifications" timestamp="1577067140250">
@@ -518,10 +596,10 @@
     </state>
     <state x="443" y="232" width="394" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576419625234" />
     <state x="2585" y="355" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576247209106" />
-    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1577154775851">
+    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1577555494474">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577154775851" />
+    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577555494474" />
     <state x="2289" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577118394179" />
     <state x="118" y="50" width="1037" height="580" key="DiffContextDialog" timestamp="1577149355722">
       <screen x="0" y="0" width="1280" height="680" />
@@ -537,28 +615,28 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="478" y="239" key="Github.ShareDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577121628291" />
-    <state width="349" height="523" key="GridCell.Tab.0.bottom" timestamp="1577154804443">
+    <state width="349" height="553" key="GridCell.Tab.0.bottom" timestamp="1577559935602">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="349" height="523" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577154804443" />
+    <state width="349" height="553" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577559935602" />
     <state width="468" height="912" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576929707541" />
     <state width="1237" height="39" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1574964459413" />
-    <state width="349" height="523" key="GridCell.Tab.0.center" timestamp="1577154804442">
+    <state width="349" height="553" key="GridCell.Tab.0.center" timestamp="1577559935602">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="349" height="523" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577154804442" />
+    <state width="349" height="553" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577559935602" />
     <state width="468" height="912" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576929707541" />
     <state width="1237" height="39" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1574964459413" />
-    <state width="349" height="523" key="GridCell.Tab.0.left" timestamp="1577154804442">
+    <state width="349" height="553" key="GridCell.Tab.0.left" timestamp="1577559935601">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="349" height="523" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577154804442" />
+    <state width="349" height="553" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577559935601" />
     <state width="468" height="912" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576929707541" />
     <state width="1237" height="39" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1574964459412" />
-    <state width="349" height="523" key="GridCell.Tab.0.right" timestamp="1577154804442">
+    <state width="349" height="553" key="GridCell.Tab.0.right" timestamp="1577559935602">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="349" height="523" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577154804442" />
+    <state width="349" height="553" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577559935602" />
     <state width="468" height="912" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576929707541" />
     <state width="1237" height="39" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1574964459413" />
     <state width="1877" height="20" key="GridCell.Tab.1.bottom" timestamp="1576459022549">
@@ -589,10 +667,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="37" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577120053741" />
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1577154740618">
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1577555507104">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577154740618" />
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577555507104" />
     <state x="411" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576954751450">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -607,10 +685,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="297" y="151" key="run.anything.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576722948963" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1577118848376">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1577553467740">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577118848376" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577553467740" />
     <state x="2375" y="2" width="1008" height="1037" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576928555428" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
