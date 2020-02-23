@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e824dc02-623b-4300-b8a3-904e0147f4e8" name="Default Changelist" comment="">
+    <list default="true" id="e824dc02-623b-4300-b8a3-904e0147f4e8" name="Default Changelist" comment="day-35 Char Practice">
+      <change afterPath="$PROJECT_DIR$/src/day34/WrapperClassMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35/CharacterPracticeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35/ParsingPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35/StringToIntegerParsing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramingB15Online/day31/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramingB15Online/day31/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramingB15Online/day31/MethodIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramingB15Online/day31/MethodIntro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day31/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day31/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day31/MethodIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day31/MethodIntro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,13 +81,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.LoginActivity">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31.Calculator" />
+  <component name="RunManager" selected="Application.CharacterPracticeSum">
+    <configuration name="CharacterPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35.CharacterPractice" />
       <module name="JavaProgramingB15Online" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day31.*" />
+          <option name="PATTERN" value="day35.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,38 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginActivity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34.LoginActivity" />
+    <configuration name="CharacterPracticeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35.CharacterPracticeSum" />
       <module name="JavaProgramingB15Online" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day34.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MathAction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34.MathAction" />
-      <module name="JavaProgramingB15Online" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day34.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MathActionFromJDK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34.MathActionFromJDK" />
-      <module name="JavaProgramingB15Online" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day34.*" />
+          <option name="PATTERN" value="day35.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,8 +134,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticeMethodWithNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34.PracticeMethodWithNumbers" />
+    <configuration name="ParsingPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35.ParsingPractice" />
+      <module name="JavaProgramingB15Online" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day35.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringToIntegerParsing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35.StringToIntegerParsing" />
+      <module name="JavaProgramingB15Online" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day35.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WrapperClassMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34.WrapperClassMethods" />
       <module name="JavaProgramingB15Online" />
       <extension name="coverage">
         <pattern>
@@ -188,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LoginActivity" />
-        <item itemvalue="Application.MathActionFromJDK" />
-        <item itemvalue="Application.MathAction" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.PracticeMethodWithNumbers" />
+        <item itemvalue="Application.CharacterPracticeSum" />
+        <item itemvalue="Application.CharacterPractice" />
+        <item itemvalue="Application.ParsingPractice" />
+        <item itemvalue="Application.StringToIntegerParsing" />
+        <item itemvalue="Application.WrapperClassMethods" />
       </list>
     </recent_temporary>
   </component>
@@ -492,8 +492,67 @@
       <option name="project" value="LOCAL" />
       <updated>1577555495930</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="day34-Math ActionJDK">
+      <created>1577564306637</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1577564306638</updated>
+    </task>
+    <task id="LOCAL-00041" summary="day34-LoginActivity">
+      <created>1577564380447</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1577564380447</updated>
+    </task>
+    <task id="LOCAL-00042" summary="day34-MonkeySmile">
+      <created>1577566207844</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1577566207844</updated>
+    </task>
+    <task id="LOCAL-00043" summary="day34-Return Practice">
+      <created>1577568258237</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1577568258237</updated>
+    </task>
+    <task id="LOCAL-00044" summary="day34-Method Over Loading">
+      <created>1577571591059</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1577571591059</updated>
+    </task>
+    <task id="LOCAL-00045" summary="day34-Over Loading Practice">
+      <created>1577573549310</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1577573549310</updated>
+    </task>
+    <task id="LOCAL-00046" summary="day34-Over Return">
+      <created>1577631107406</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1577631107406</updated>
+    </task>
+    <task id="LOCAL-00047" summary="day-35 Char Practice">
+      <created>1579654454806</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1579654454806</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -559,14 +618,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="second time commit" />
-    <MESSAGE value="four time" />
-    <MESSAGE value="day 15 for java" />
-    <MESSAGE value="day:32" />
-    <MESSAGE value="Add new printout" />
-    <MESSAGE value="printout new one" />
-    <MESSAGE value="printout new second one" />
-    <MESSAGE value="gitignore" />
     <MESSAGE value="adding java" />
     <MESSAGE value="Day-33 Warm Up" />
     <MESSAGE value="Day-33 Sum1ToX" />
@@ -584,7 +635,15 @@
     <MESSAGE value="office hours-Method practice1" />
     <MESSAGE value="office hours-Method practice2" />
     <MESSAGE value="day34-Math Action" />
-    <option name="LAST_COMMIT_MESSAGE" value="day34-Math Action" />
+    <MESSAGE value="day34-Math ActionJDK" />
+    <MESSAGE value="day34-LoginActivity" />
+    <MESSAGE value="day34-MonkeySmile" />
+    <MESSAGE value="day34-Return Practice" />
+    <MESSAGE value="day34-Method Over Loading" />
+    <MESSAGE value="day34-Over Loading Practice" />
+    <MESSAGE value="day34-Over Return" />
+    <MESSAGE value="day-35 Char Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="day-35 Char Practice" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="2" key="#Notifications" timestamp="1577067140250">
@@ -596,10 +655,10 @@
     </state>
     <state x="443" y="232" width="394" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576419625234" />
     <state x="2585" y="355" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576247209106" />
-    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1577555494474">
+    <state x="246" y="0" width="782" height="679" key="CommitChangelistDialog2" timestamp="1582494870659">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577555494474" />
+    <state x="246" y="0" width="782" height="679" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582494870659" />
     <state x="2289" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577118394179" />
     <state x="118" y="50" width="1037" height="580" key="DiffContextDialog" timestamp="1577149355722">
       <screen x="0" y="0" width="1280" height="680" />
@@ -611,66 +670,67 @@
     </state>
     <state x="138" y="98" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1575381004472" />
     <state x="2127" y="150" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576928571928" />
-    <state x="478" y="239" key="Github.ShareDialog" timestamp="1577121628291">
+    <state x="478" y="239" key="Github.ShareDialog" timestamp="1582494969178">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="478" y="239" key="Github.ShareDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577121628291" />
-    <state width="349" height="553" key="GridCell.Tab.0.bottom" timestamp="1577559935602">
+    <state x="478" y="239" key="Github.ShareDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582494969178" />
+    <state width="1237" height="248" key="GridCell.Tab.0.bottom" timestamp="1577672552532">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="349" height="553" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577559935602" />
-    <state width="468" height="912" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576929707541" />
+    <state width="1237" height="248" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577672552532" />
+    <state width="349" height="912" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577631987731" />
     <state width="1237" height="39" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1574964459413" />
-    <state width="349" height="553" key="GridCell.Tab.0.center" timestamp="1577559935602">
+    <state width="1237" height="248" key="GridCell.Tab.0.center" timestamp="1577672552532">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="349" height="553" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577559935602" />
-    <state width="468" height="912" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576929707541" />
+    <state width="1237" height="248" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577672552532" />
+    <state width="349" height="912" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577631987731" />
     <state width="1237" height="39" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1574964459413" />
-    <state width="349" height="553" key="GridCell.Tab.0.left" timestamp="1577559935601">
+    <state width="1237" height="248" key="GridCell.Tab.0.left" timestamp="1577672552532">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="349" height="553" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577559935601" />
-    <state width="468" height="912" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576929707541" />
+    <state width="1237" height="248" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577672552532" />
+    <state width="349" height="912" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577631987731" />
     <state width="1237" height="39" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1574964459412" />
-    <state width="349" height="553" key="GridCell.Tab.0.right" timestamp="1577559935602">
+    <state width="1237" height="248" key="GridCell.Tab.0.right" timestamp="1577672552532">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="349" height="553" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577559935602" />
-    <state width="468" height="912" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576929707541" />
+    <state width="1237" height="248" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577672552532" />
+    <state width="349" height="912" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577631987731" />
     <state width="1237" height="39" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1574964459413" />
-    <state width="1877" height="20" key="GridCell.Tab.1.bottom" timestamp="1576459022549">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1237" height="248" key="GridCell.Tab.1.bottom" timestamp="1577672552532">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="2" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576359692661" />
+    <state width="1237" height="248" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577672552532" />
     <state width="1877" height="20" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576459022549" />
-    <state width="1877" height="20" key="GridCell.Tab.1.center" timestamp="1576459022549">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1237" height="248" key="GridCell.Tab.1.center" timestamp="1577672552532">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="2" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576359692661" />
+    <state width="1237" height="248" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577672552532" />
     <state width="1877" height="20" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576459022549" />
-    <state width="1877" height="20" key="GridCell.Tab.1.left" timestamp="1576459022549">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1237" height="248" key="GridCell.Tab.1.left" timestamp="1577672552532">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="2" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576359692661" />
+    <state width="1237" height="248" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577672552532" />
     <state width="1877" height="20" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576459022549" />
-    <state width="1877" height="20" key="GridCell.Tab.1.right" timestamp="1576459022549">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1237" height="248" key="GridCell.Tab.1.right" timestamp="1577672552532">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="2" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576359692661" />
+    <state width="1237" height="248" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577672552532" />
     <state width="1877" height="20" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576459022549" />
     <state x="349" y="54" key="RollbackChangesDialog" timestamp="1577119611205">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="349" y="54" key="RollbackChangesDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577119611205" />
-    <state x="37" y="0" key="SettingsEditor" timestamp="1577120053741">
+    <state x="37" y="0" key="SettingsEditor" timestamp="1582494731258">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="37" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577120053741" />
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1577555507104">
+    <state x="37" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582494731258" />
+    <state x="1976" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577631816559" />
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1579654462402">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577555507104" />
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1579654462402" />
     <state x="411" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576954751450">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -685,11 +745,11 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="297" y="151" key="run.anything.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576722948963" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1577553467740">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="2375" y="2" width="1008" height="1037" key="search.everywhere.popup" timestamp="1577631512070">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577553467740" />
-    <state x="2375" y="2" width="1008" height="1037" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576928555428" />
+    <state x="2375" y="2" width="1008" height="1037" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577631512070" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaProgramingB15Online$Zommbii.ic" NAME="Zommbii Coverage Results" MODIFIED="1575826147800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -739,6 +799,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/JavaProgramingB15Online$AaTest.ic" NAME="AaTest Coverage Results" MODIFIED="1575814480275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Assignments.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$StringToIntegerParsing.ic" NAME="StringToIntegerParsing Coverage Results" MODIFIED="1577639389356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day35.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/JavaProgramingB15Online$NestedLoop.ic" NAME="NestedLoop Coverage Results" MODIFIED="1575758426751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>day21.*</FILTER>
