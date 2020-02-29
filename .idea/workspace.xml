@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e824dc02-623b-4300-b8a3-904e0147f4e8" name="Default Changelist" comment="day-35 Char Practice">
-      <change afterPath="$PROJECT_DIR$/src/day34/WrapperClassMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35/CharacterPracticeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35/ParsingPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35/StringToIntegerParsing.java" afterDir="false" />
+    <list default="true" id="e824dc02-623b-4300-b8a3-904e0147f4e8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +77,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.CharacterPracticeSum">
+  <component name="RunManager" selected="Application.gitHubTrye">
     <configuration name="CharacterPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day35.CharacterPractice" />
       <module name="JavaProgramingB15Online" />
@@ -160,19 +156,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperClassMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34.WrapperClassMethods" />
-      <module name="JavaProgramingB15Online" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day34.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_118" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignments._118" />
       <module name="JavaProgramingB15Online" />
@@ -186,13 +169,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="gitHubTrye" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day70.gitHubTrye" />
+      <module name="JavaProgramingB15Online" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day70.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.gitHubTrye" />
         <item itemvalue="Application.CharacterPracticeSum" />
         <item itemvalue="Application.CharacterPractice" />
         <item itemvalue="Application.ParsingPractice" />
         <item itemvalue="Application.StringToIntegerParsing" />
-        <item itemvalue="Application.WrapperClassMethods" />
       </list>
     </recent_temporary>
   </component>
@@ -548,11 +544,15 @@
       <option name="project" value="LOCAL" />
       <updated>1579654454806</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="day-35 Char Practice">
+      <created>1582495025974</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1582495025974</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
-  </component>
-  <component name="UpdateCopyrightCheckinHandler">
-    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -655,10 +655,10 @@
     </state>
     <state x="443" y="232" width="394" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576419625234" />
     <state x="2585" y="355" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576247209106" />
-    <state x="246" y="0" width="782" height="679" key="CommitChangelistDialog2" timestamp="1582494870659">
+    <state x="246" y="0" width="782" height="679" key="CommitChangelistDialog2" timestamp="1582495024181">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="246" y="0" width="782" height="679" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582494870659" />
+    <state x="246" y="0" width="782" height="679" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582495024181" />
     <state x="2289" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577118394179" />
     <state x="118" y="50" width="1037" height="580" key="DiffContextDialog" timestamp="1577149355722">
       <screen x="0" y="0" width="1280" height="680" />
@@ -674,28 +674,28 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="478" y="239" key="Github.ShareDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582494969178" />
-    <state width="1237" height="248" key="GridCell.Tab.0.bottom" timestamp="1577672552532">
+    <state width="267" height="340" key="GridCell.Tab.0.bottom" timestamp="1582498714193">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="248" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577672552532" />
+    <state width="267" height="340" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582498714193" />
     <state width="349" height="912" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577631987731" />
     <state width="1237" height="39" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1574964459413" />
-    <state width="1237" height="248" key="GridCell.Tab.0.center" timestamp="1577672552532">
+    <state width="267" height="340" key="GridCell.Tab.0.center" timestamp="1582498714193">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="248" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577672552532" />
+    <state width="267" height="340" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582498714193" />
     <state width="349" height="912" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577631987731" />
     <state width="1237" height="39" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1574964459413" />
-    <state width="1237" height="248" key="GridCell.Tab.0.left" timestamp="1577672552532">
+    <state width="267" height="340" key="GridCell.Tab.0.left" timestamp="1582498714192">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="248" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577672552532" />
+    <state width="267" height="340" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582498714192" />
     <state width="349" height="912" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577631987731" />
     <state width="1237" height="39" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1574964459412" />
-    <state width="1237" height="248" key="GridCell.Tab.0.right" timestamp="1577672552532">
+    <state width="267" height="340" key="GridCell.Tab.0.right" timestamp="1582498714193">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="248" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577672552532" />
+    <state width="267" height="340" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582498714193" />
     <state width="349" height="912" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577631987731" />
     <state width="1237" height="39" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1574964459413" />
     <state width="1237" height="248" key="GridCell.Tab.1.bottom" timestamp="1577672552532">
@@ -727,10 +727,10 @@
     </state>
     <state x="37" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582494731258" />
     <state x="1976" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577631816559" />
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1579654462402">
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1582495043193">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1579654462402" />
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582495043193" />
     <state x="411" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576954751450">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
