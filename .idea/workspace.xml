@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e824dc02-623b-4300-b8a3-904e0147f4e8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramingB15Online/META-INF/JavaProgramingB15Online.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OfficeHours/MethodPracticePart2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OfficeHours/MethodsPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day70/gitHubTrye.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,17 +71,17 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.gitHubTrye">
+  <component name="RunManager" selected="Application._109Array01">
     <configuration name="CharacterPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day35.CharacterPractice" />
       <module name="JavaProgramingB15Online" />
@@ -130,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParsingPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day35.ParsingPractice" />
+    <configuration name="_105letter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignments._105letter" />
       <module name="JavaProgramingB15Online" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day35.*" />
+          <option name="PATTERN" value="Assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringToIntegerParsing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day35.StringToIntegerParsing" />
+    <configuration name="_109Array01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignments._109Array01" />
       <module name="JavaProgramingB15Online" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day35.*" />
+          <option name="PATTERN" value="Assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,25 +188,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._109Array01" />
+        <item itemvalue="Application._105letter" />
         <item itemvalue="Application.gitHubTrye" />
         <item itemvalue="Application.CharacterPracticeSum" />
         <item itemvalue="Application.CharacterPractice" />
-        <item itemvalue="Application.ParsingPractice" />
-        <item itemvalue="Application.StringToIntegerParsing" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -551,7 +543,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582495025974</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="day-70 GitHubHello">
+      <created>1582997855503</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1582997855503</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -609,16 +608,14 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="adding java" />
     <MESSAGE value="Day-33 Warm Up" />
     <MESSAGE value="Day-33 Sum1ToX" />
     <MESSAGE value="Day-33 Spelling Name" />
@@ -643,168 +640,105 @@
     <MESSAGE value="day34-Over Loading Practice" />
     <MESSAGE value="day34-Over Return" />
     <MESSAGE value="day-35 Char Practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="day-35 Char Practice" />
+    <MESSAGE value="day-70 GitHubHello" />
+    <option name="LAST_COMMIT_MESSAGE" value="day-70 GitHubHello" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="2" key="#Notifications" timestamp="1577067140250">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="233" y="2" key="#Notifications/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577067140250" />
-    <state x="443" y="232" width="394" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576419625234">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="443" y="232" width="394" height="223" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576419625234" />
-    <state x="2585" y="355" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576247209106" />
-    <state x="246" y="0" width="782" height="679" key="CommitChangelistDialog2" timestamp="1582495024181">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="246" y="0" width="782" height="679" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582495024181" />
-    <state x="2289" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577118394179" />
-    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog" timestamp="1577149355722">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="118" y="50" width="1037" height="580" key="DiffContextDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577149355722" />
-    <state x="2097" y="76" key="DiffContextDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577118387869" />
-    <state x="2127" y="150" key="FileChooserDialogImpl" timestamp="1576928571928">
+    <state x="2525" y="207" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1587311347524">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="138" y="98" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1575381004472" />
-    <state x="2127" y="150" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576928571928" />
+    <state x="2525" y="207" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587311347524" />
+    <state x="246" y="0" width="782" height="679" key="CommitChangelistDialog2" timestamp="1582997851357">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="246" y="0" width="782" height="679" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582997851357" />
     <state x="478" y="239" key="Github.ShareDialog" timestamp="1582494969178">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="478" y="239" key="Github.ShareDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582494969178" />
-    <state width="267" height="340" key="GridCell.Tab.0.bottom" timestamp="1582498714193">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="405" height="912" key="GridCell.Tab.0.bottom" timestamp="1587311034929">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="267" height="340" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582498714193" />
-    <state width="349" height="912" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577631987731" />
-    <state width="1237" height="39" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1574964459413" />
-    <state width="267" height="340" key="GridCell.Tab.0.center" timestamp="1582498714193">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="267" height="553" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582999366224" />
+    <state width="405" height="912" key="GridCell.Tab.0.bottom/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587311034929" />
+    <state width="405" height="912" key="GridCell.Tab.0.center" timestamp="1587311034929">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="267" height="340" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582498714193" />
-    <state width="349" height="912" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577631987731" />
-    <state width="1237" height="39" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1574964459413" />
-    <state width="267" height="340" key="GridCell.Tab.0.left" timestamp="1582498714192">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="267" height="553" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582999366223" />
+    <state width="405" height="912" key="GridCell.Tab.0.center/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587311034929" />
+    <state width="405" height="912" key="GridCell.Tab.0.left" timestamp="1587311034928">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="267" height="340" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582498714192" />
-    <state width="349" height="912" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577631987731" />
-    <state width="1237" height="39" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1574964459412" />
-    <state width="267" height="340" key="GridCell.Tab.0.right" timestamp="1582498714193">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="267" height="553" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582999366223" />
+    <state width="405" height="912" key="GridCell.Tab.0.left/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587311034928" />
+    <state width="405" height="912" key="GridCell.Tab.0.right" timestamp="1587311034929">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="267" height="340" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582498714193" />
-    <state width="349" height="912" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577631987731" />
-    <state width="1237" height="39" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1574964459413" />
-    <state width="1237" height="248" key="GridCell.Tab.1.bottom" timestamp="1577672552532">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="248" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577672552532" />
-    <state width="1877" height="20" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576459022549" />
-    <state width="1237" height="248" key="GridCell.Tab.1.center" timestamp="1577672552532">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="248" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577672552532" />
-    <state width="1877" height="20" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576459022549" />
-    <state width="1237" height="248" key="GridCell.Tab.1.left" timestamp="1577672552532">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="248" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577672552532" />
-    <state width="1877" height="20" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576459022549" />
-    <state width="1237" height="248" key="GridCell.Tab.1.right" timestamp="1577672552532">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="248" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577672552532" />
-    <state width="1877" height="20" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576459022549" />
-    <state x="349" y="54" key="RollbackChangesDialog" timestamp="1577119611205">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="349" y="54" key="RollbackChangesDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577119611205" />
+    <state width="267" height="553" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582999366223" />
+    <state width="405" height="912" key="GridCell.Tab.0.right/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587311034929" />
     <state x="37" y="0" key="SettingsEditor" timestamp="1582494731258">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="37" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582494731258" />
-    <state x="1976" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577631816559" />
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1582495043193">
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1582997863136">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582495043193" />
-    <state x="411" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576954751450">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="411" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576954751450" />
-    <state x="2537" y="137" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576706124049" />
-    <state x="452" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577152003820">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="452" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577152003820" />
-    <state x="2598" y="396" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577118373751" />
-    <state x="297" y="151" key="run.anything.popup" timestamp="1576722948963">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="297" y="151" key="run.anything.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1576722948963" />
-    <state x="2375" y="2" width="1008" height="1037" key="search.everywhere.popup" timestamp="1577631512070">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577553467740" />
-    <state x="2375" y="2" width="1008" height="1037" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577631512070" />
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582997863136" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$WhileEvenNumberFinder.ic" NAME="WhileEvenNumberFinder Coverage Results" MODIFIED="1575232235038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day17.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/JavaProgramingB15Online$Zommbii.ic" NAME="Zommbii Coverage Results" MODIFIED="1575826147800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Assignments.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$CitizenTypeChecker.ic" NAME="CitizenTypeChecker Coverage Results" MODIFIED="1574210987530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>day09.*</FILTER>
+    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$_122Array_Dublicate.ic" NAME="_122Array_Dublicate Coverage Results" MODIFIED="1576457347536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Assignments.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$SmartLockOpener.ic" NAME="SmartLockOpener Coverage Results" MODIFIED="1575334261362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$TipCalculator.ic" NAME="TipCalculator Coverage Results" MODIFIED="1575296708002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Assignments.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$WhileLoopReview.ic" NAME="WhileLoopReview Coverage Results" MODIFIED="1575332512907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>day18.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$_122Array_Dublicate.ic" NAME="_122Array_Dublicate Coverage Results" MODIFIED="1576457347536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$Email1.ic" NAME="Email1 Coverage Results" MODIFIED="1575681203102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Assignments.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/JavaProgramingB15Online$WhileLoopPractice.ic" NAME="WhileLoopPractice Coverage Results" MODIFIED="1575151393212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>day16.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$DoWhileIntro.ic" NAME="DoWhileIntro Coverage Results" MODIFIED="1575335616995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>day18.*</FILTER>
+    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$_127Zombi.ic" NAME="_127Zombi Coverage Results" MODIFIED="1576547041758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Assignments.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/JavaProgramingB15Online$ForLoopIntro.ic" NAME="ForLoopIntro Coverage Results" MODIFIED="1575340569167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>day18.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$TipCalculator.ic" NAME="TipCalculator Coverage Results" MODIFIED="1575296708002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$AaTest.ic" NAME="AaTest Coverage Results" MODIFIED="1575814480275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Assignments.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$ForLoopEvenNumber.ic" NAME="ForLoopEvenNumber Coverage Results" MODIFIED="1575380988572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>day18.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$WhileLoopReview.ic" NAME="WhileLoopReview Coverage Results" MODIFIED="1575332512907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>day18.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$WhileEvenNumberFinder.ic" NAME="WhileEvenNumberFinder Coverage Results" MODIFIED="1575232235038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>day17.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/JavaProgramingB15Online$GiveMe5_10_.ic" NAME="GiveMe5$10$ Coverage Results" MODIFIED="1575333789243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>day18.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$_127Zombi.ic" NAME="_127Zombi Coverage Results" MODIFIED="1576547041758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Assignments.*</FILTER>
+    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$DoWhileIntro.ic" NAME="DoWhileIntro Coverage Results" MODIFIED="1575335616995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day18.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$SmartLockOpener.ic" NAME="SmartLockOpener Coverage Results" MODIFIED="1575334261362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day18.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$NestedLoop.ic" NAME="NestedLoop Coverage Results" MODIFIED="1575758426751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day21.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/JavaProgramingB15Online$SkipCounting.ic" NAME="SkipCounting Coverage Results" MODIFIED="1575225688732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>day17.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$Email1.ic" NAME="Email1 Coverage Results" MODIFIED="1575681203102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Assignments.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$AaTest.ic" NAME="AaTest Coverage Results" MODIFIED="1575814480275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Assignments.*</FILTER>
+    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$ForLoopEvenNumber.ic" NAME="ForLoopEvenNumber Coverage Results" MODIFIED="1575380988572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day18.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/JavaProgramingB15Online$StringToIntegerParsing.ic" NAME="StringToIntegerParsing Coverage Results" MODIFIED="1577639389356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>day35.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$NestedLoop.ic" NAME="NestedLoop Coverage Results" MODIFIED="1575758426751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>day21.*</FILTER>
+    <SUITE FILE_PATH="coverage/JavaProgramingB15Online$CitizenTypeChecker.ic" NAME="CitizenTypeChecker Coverage Results" MODIFIED="1574210987530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day09.*</FILTER>
     </SUITE>
   </component>
 </project>
