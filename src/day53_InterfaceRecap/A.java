@@ -15,7 +15,7 @@ public interface A extends B {// if both type is same use the extend kewword!!! 
 }
 
 class C implements A {// if both type is different use the implemnets keyword!!!
-                    // now we have 3 absract method  overridee
+                    // now we have 3 absract method  overrideeeee
     @Override
     public void method1() {
 
