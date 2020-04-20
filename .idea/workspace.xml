@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e824dc02-623b-4300-b8a3-904e0147f4e8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramingB15Online/META-INF/JavaProgramingB15Online.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OfficeHours/MethodPracticePart2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OfficeHours/MethodsPractice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day70/gitHubTrye.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,9 +77,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application._109Array01">
-    <configuration name="CharacterPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day35.CharacterPractice" />
+  <component name="RunManager" selected="Application.DealerShip">
+    <configuration name="CharacterPracticeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35.CharacterPracticeSum" />
       <module name="JavaProgramingB15Online" />
       <extension name="coverage">
         <pattern>
@@ -95,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharacterPracticeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day35.CharacterPracticeSum" />
+    <configuration name="DealerShip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day53_InterfaceRecap.DealerShip" />
       <module name="JavaProgramingB15Online" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day35.*" />
+          <option name="PATTERN" value="day53_InterfaceRecap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DealerShip" />
         <item itemvalue="Application._109Array01" />
         <item itemvalue="Application._105letter" />
         <item itemvalue="Application.gitHubTrye" />
         <item itemvalue="Application.CharacterPracticeSum" />
-        <item itemvalue="Application.CharacterPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -206,13 +202,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573404497948</updated>
-    </task>
-    <task id="LOCAL-00001" summary="second time commit">
-      <created>1577045144945</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1577045144945</updated>
     </task>
     <task id="LOCAL-00002" summary="second time commit">
       <created>1577046416836</created>
@@ -550,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582997855503</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="day-53 Interface">
+      <created>1587311571581</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1587311571581</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -616,7 +612,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day-33 Warm Up" />
     <MESSAGE value="Day-33 Sum1ToX" />
     <MESSAGE value="Day-33 Spelling Name" />
     <MESSAGE value="Day-33 Sumof1ToX" />
@@ -641,49 +636,60 @@
     <MESSAGE value="day34-Over Return" />
     <MESSAGE value="day-35 Char Practice" />
     <MESSAGE value="day-70 GitHubHello" />
-    <option name="LAST_COMMIT_MESSAGE" value="day-70 GitHubHello" />
+    <MESSAGE value="day-53 Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="day-53 Interface" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2525" y="207" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1587311347524">
+    <state x="2525" y="207" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1587311391696">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2525" y="207" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587311347524" />
-    <state x="246" y="0" width="782" height="679" key="CommitChangelistDialog2" timestamp="1582997851357">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="2525" y="207" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587311391696" />
+    <state x="2685" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1587406364712">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2685" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1587406364712" />
+    <state x="2289" y="0" width="782" height="679" key="CommitChangelistDialog2" timestamp="1587311567764">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="246" y="0" width="782" height="679" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582997851357" />
+    <state x="2289" y="0" key="CommitChangelistDialog2/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587311567764" />
     <state x="478" y="239" key="Github.ShareDialog" timestamp="1582494969178">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="478" y="239" key="Github.ShareDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582494969178" />
-    <state width="405" height="912" key="GridCell.Tab.0.bottom" timestamp="1587311034929">
+    <state width="405" height="805" key="GridCell.Tab.0.bottom" timestamp="1587407049807">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="405" height="805" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1587407049807" />
     <state width="267" height="553" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582999366224" />
-    <state width="405" height="912" key="GridCell.Tab.0.bottom/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587311034929" />
-    <state width="405" height="912" key="GridCell.Tab.0.center" timestamp="1587311034929">
+    <state width="405" height="807" key="GridCell.Tab.0.bottom/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587319158234" />
+    <state width="405" height="805" key="GridCell.Tab.0.center" timestamp="1587407049807">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="405" height="805" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1587407049807" />
     <state width="267" height="553" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582999366223" />
-    <state width="405" height="912" key="GridCell.Tab.0.center/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587311034929" />
-    <state width="405" height="912" key="GridCell.Tab.0.left" timestamp="1587311034928">
+    <state width="405" height="807" key="GridCell.Tab.0.center/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587319158234" />
+    <state width="405" height="805" key="GridCell.Tab.0.left" timestamp="1587407049807">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="405" height="805" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1587407049807" />
     <state width="267" height="553" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582999366223" />
-    <state width="405" height="912" key="GridCell.Tab.0.left/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587311034928" />
-    <state width="405" height="912" key="GridCell.Tab.0.right" timestamp="1587311034929">
+    <state width="405" height="807" key="GridCell.Tab.0.left/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587319158234" />
+    <state width="405" height="805" key="GridCell.Tab.0.right" timestamp="1587407049807">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
+    <state width="405" height="805" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1587407049807" />
     <state width="267" height="553" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582999366223" />
-    <state width="405" height="912" key="GridCell.Tab.0.right/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587311034929" />
+    <state width="405" height="807" key="GridCell.Tab.0.right/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587319158234" />
     <state x="37" y="0" key="SettingsEditor" timestamp="1582494731258">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="37" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582494731258" />
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1582997863136">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="2270" y="116" key="Vcs.Push.Dialog.v2" timestamp="1587311583141">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582997863136" />
+    <state x="2270" y="116" key="Vcs.Push.Dialog.v2/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587311583141" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaProgramingB15Online$WhileEvenNumberFinder.ic" NAME="WhileEvenNumberFinder Coverage Results" MODIFIED="1575232235038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
