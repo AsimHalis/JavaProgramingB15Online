@@ -32,6 +32,6 @@ class C implements A {// if both type is different use the implemnets keyword!!!
     }
 }
 
-class D extends C implements A,B{
+class D extends C implements A{
 
 }

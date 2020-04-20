@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e824dc02-623b-4300-b8a3-904e0147f4e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day53_InterfaceRecap/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day53_InterfaceRecap/A.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,41 +202,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573404497948</updated>
-    </task>
-    <task id="LOCAL-00006" summary="day:32">
-      <created>1577053635537</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1577053635537</updated>
-    </task>
-    <task id="LOCAL-00007" summary="day:32">
-      <created>1577066640898</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1577066640898</updated>
-    </task>
-    <task id="LOCAL-00008" summary="day:32">
-      <created>1577066688764</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1577066688764</updated>
-    </task>
-    <task id="LOCAL-00009" summary="day:32">
-      <created>1577067041751</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1577067041751</updated>
-    </task>
-    <task id="LOCAL-00010" summary="day:32">
-      <created>1577067059229</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1577067059229</updated>
     </task>
     <task id="LOCAL-00011" summary="day 15 for java">
       <created>1577067322235</created>
@@ -546,7 +511,42 @@
       <option name="project" value="LOCAL" />
       <updated>1587410512032</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="day-53 Interface">
+      <created>1587416308652</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1587416308653</updated>
+    </task>
+    <task id="LOCAL-00056" summary="day-53 Interface">
+      <created>1587416331385</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1587416331386</updated>
+    </task>
+    <task id="LOCAL-00057" summary="day-53 Interface">
+      <created>1587416388103</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1587416388103</updated>
+    </task>
+    <task id="LOCAL-00058" summary="day-53 Interface">
+      <created>1587416402333</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1587416402333</updated>
+    </task>
+    <task id="LOCAL-00059" summary="day-53 Interface">
+      <created>1587416446471</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1587416446471</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -656,10 +656,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2663" y="414" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1587410405320" />
-    <state x="2289" y="0" width="782" height="679" key="CommitChangelistDialog2" timestamp="1587410511070">
+    <state x="2289" y="0" width="782" height="679" key="CommitChangelistDialog2" timestamp="1587416445302">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2289" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1587410511070" />
+    <state x="2289" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1587416445302" />
     <state x="246" y="0" width="782" height="679" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582997851357" />
     <state x="2289" y="0" key="CommitChangelistDialog2/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587311567764" />
     <state x="478" y="239" key="Github.ShareDialog" timestamp="1582494969178">
@@ -694,10 +694,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="37" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582494731258" />
-    <state x="2270" y="116" key="Vcs.Push.Dialog.v2" timestamp="1587410303784">
+    <state x="2270" y="116" key="Vcs.Push.Dialog.v2" timestamp="1587416449676">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2270" y="116" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1587410303784" />
+    <state x="2270" y="116" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1587416449676" />
     <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1582997863136" />
     <state x="2270" y="116" key="Vcs.Push.Dialog.v2/0.0.1280.680/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587311583141" />
   </component>
