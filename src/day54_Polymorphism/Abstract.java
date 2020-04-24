@@ -20,7 +20,7 @@ abstract class C {
 class D extends C implements E{
     }
 //----------INTERFACE------
-interface E {
+interface E{
 
 }
 abstract class F implements E{
