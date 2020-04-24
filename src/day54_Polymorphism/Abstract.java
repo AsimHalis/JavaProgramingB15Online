@@ -5,7 +5,7 @@ class  A{
         System.out.println("method1");
     }
 }
-
+//Polymorphisim: ocures when a super class/interface is reference and object from creaated from child class!!!
 class  B extends A {
     public void method2() {
         System.out.println("method2");
@@ -52,7 +52,7 @@ public class Abstract {
               //  D obj7=new E(); We cannot create object from the interface
               //  D obj7=new E() --->E is interface and E CAN NOT  object
              //   E obj7=new C()--> C is abstract class and can not be object! abstraction not concrete
-                  E obj7=new D();
+                  E obj7=new D();//-->Abstract class can only be reference type
                  // F obj8=new E();--> E is interface and can not object
                  //   E obj8=new F();-->F is abstract nad abstract can not object
 
@@ -62,11 +62,9 @@ public class Abstract {
 
                Dog is An Animal
                Pitbull is a Dog
-
-
-
-
-
+//====>.>>>>interface: Webdriver, WebElement, JavaScriptExecuter, TakeScreenShot...
+                          WebDriver driver = new ChromeDriver();
+                              driver.get("URL")
  */
     }
 }
