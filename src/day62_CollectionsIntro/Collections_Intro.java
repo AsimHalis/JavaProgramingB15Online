@@ -55,6 +55,8 @@ public class Collections_Intro {
      *          Set<Integer> st3=new TreeSet<>();
      *     ONLY Accepts unique Object!
      *
+     * 5.SortedSet(I) : Sorts the object in Ascending order, does not accept duplicates
+         *          implemented by TreeSet(C)
      *
      */
 }
