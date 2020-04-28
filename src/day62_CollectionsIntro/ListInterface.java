@@ -76,7 +76,7 @@ Stack<Integer> st=new Stack<Integer>();
         linkedhashset.add(4);
         linkedhashset.add(8);
         linkedhashset.add(100);//-->LinkedHashSet is keep the order as it is!![100, 10, 7, 4, 8]
-
+//+++
         System.out.println(linkedhashset);
     }
 }
