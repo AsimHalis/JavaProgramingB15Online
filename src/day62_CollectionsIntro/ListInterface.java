@@ -27,10 +27,10 @@ public class ListInterface {
         System.out.println(linkedList);//-->[30, 40]
 
         System.out.println("11$$$$$$$$$$$$$$$$$$$$$$$$$$");
-        String[] arr={"A","B","C"};
+        String[] arr={"A","B","C", "C"};
 
         List<String> list=new ArrayList<>(Arrays.asList(arr));
-        System.out.println(list);//--->[A, B, C]
+        System.out.println(list);//--->[A, B, C ,C]
 
         System.out.println("2222$$$$$$$$$$$$$$$$$$$$$$$$$$");
         Vector<Integer> vt= new Vector<Integer>();
@@ -38,16 +38,17 @@ public class ListInterface {
                      vt.add(2);
                      vt.remove(0);
         System.out.println(vt);//--->[1, 2]
-        System.out.println("3333$$$$$$$$$$$$$$$$$$$$$$$$$$");
-Stack<Integer> st=new Stack<Integer>();
-        st.add(11);
+        System.out.println("3333$$$$$$$$$ Stack  $$$$$$$$$$$$$$");
+        Stack<Integer> st=new Stack<Integer>();
+        st.add(55);
         st.add(22);
         st.add(33);
         st.add(44);
-        System.out.println(st);//-->[11, 22, 33, 44]
-        System.out.println(st.pop());//-->44  LIFO( Last In First Out)
-        System.out.println(st);//--->[11, 22, 33]
-        System.out.println("444$$$$$$$$$$$$$$$$$$$$$$$$$$");
+        System.out.println(st);//-->[55, 22, 33, 44]
+        st.pop();//-->44  LIFO( Last In First Out)
+        System.out.println(st);//--->[55, 22, 33]
+
+        System.out.println("?????????????  SET  ?????????????");
             List<Integer> list1= new ArrayList<>();
             list1.addAll(Arrays.asList(100,100,100));
                     System.out.println(list1);//--->[100, 100, 100]

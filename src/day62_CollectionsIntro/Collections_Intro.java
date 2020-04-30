@@ -24,6 +24,9 @@ public class Collections_Intro {
      *    All those interfaces are presented in java.util package. and only support Objects!
      *
      * 1.Iterable(I):Root interface, super type of all interfaces in collections framework.Extended by Collection(I)
+     *
+     *
+     *
      * 2.Collections(I): Extended by three interfaces: List(I), Set(I), Queue(I)
      * 3.List(I) : implemented By a.ArrayList(Class), b.LinkedList(C), c.Vector(C)
      *             List interface has index number, dynamic sized, accepts dublicates.
@@ -43,7 +46,7 @@ public class Collections_Intro {
      *                     dis-advantage: slower
      *                 Vector has a child class that call: Stack
      *             Stack : synchronized
-     *             pop(): LIFO( Last In First Out) remove the last object from the stack
+     *     pop(): LIFO( Last In First Out) remove the last object from the stack
      *            Synchronized keyword used for achieve==> Thread safe is multi-thread environment
      *                      multi-thread:multiple threads try to get access to same resources
      *
@@ -55,8 +58,23 @@ public class Collections_Intro {
      *          Set<Integer> st3=new TreeSet<>();
      *     ONLY Accepts unique Object!
      *
-     * 5.SortedSet(I) : Sorts the object in Ascending order, does not accept duplicates
+     *5.SortedSet(I) : Sorts the object in Ascending order, does not accept duplicates
          *          implemented by TreeSet(C)
+     *
+     *6.Queue(I): Does not have index numbers, does accept duplicates
+     *               implemented by PriorityQueue
+     *               Extended by Deque(I)
+     *               poll():FIFO==>First In First Out
+     *                         return the first object as same data type, at the same time
+     *                         it removes the first object from the Queue
+     *7.Deque(I) is implemented by ArrayDeque(C) and LinkedList(C)
+     *          *LinkedList(C) is implementing both List(I) and Deque(I)
+     *          ******************
+     *          addFirst(object): adds the given object to the starting point of the Deque
+     *          removeFirst();
+     *          removeLast();
+     *          getFirst();
+     *          getLast();
      *
      */
 }
