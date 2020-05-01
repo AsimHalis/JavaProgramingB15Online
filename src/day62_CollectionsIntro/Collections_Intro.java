@@ -24,6 +24,19 @@ public class Collections_Intro {
      *    All those interfaces are presented in java.util package. and only support Objects!
      *
      * 1.Iterable(I):Root interface, super type of all interfaces in collections framework.Extended by Collection(I)
+     *          !!!!!!!!!!!
+     *           Extended by root interface interface collections. We can apply Iterator(I) to classes or interfaces
+     *           that are sub type of Iterable!
+     *
+     *   Iterator(I):(yenileyici)
+     *                1. Allows us to get access to each objects of the collection type
+     *                2. Allows us to remove objects from the collections type
+     *     The Only legit way to remove data elements from a collections type
+     *
+     *     hasNext(): this method check if there are enough element  hat can be iterated? returns boolean- true or false
+     *     Next():if hasNext() is true, it retrives the current iteratior from the collection type
+     *     remove(): removes current element of the iteration from the collection type
+     *
      *
      *
      *

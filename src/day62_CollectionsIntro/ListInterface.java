@@ -26,13 +26,13 @@ public class ListInterface {
         linkedList.remove(0);
         System.out.println(linkedList);//-->[30, 40]
 
-        System.out.println("11$$$$$$$$$$$$$$$$$$$$$$$$$$");
+        System.out.println("$$$$$$$$$$$$$$$$$$$$$$$$$$");
         String[] arr={"A","B","C", "C"};
 
         List<String> list=new ArrayList<>(Arrays.asList(arr));
         System.out.println(list);//--->[A, B, C ,C]
 
-        System.out.println("2222$$$$$$$$$$$$$$$$$$$$$$$$$$");
+        System.out.println("$$$$$$$$  Vector  $$$$$$$$$$$$$$$");
         Vector<Integer> vt= new Vector<Integer>();
                      vt.add(1);
                      vt.add(2);
@@ -78,9 +78,9 @@ public class ListInterface {
         linkedhashset.add(7);
         linkedhashset.add(4);
         linkedhashset.add(8);
-        linkedhashset.add(100);//-->LinkedHashSet is keep the order as it is!![100, 10, 7, 4, 8]
+        linkedhashset.add(100);
 
-        System.out.println(linkedhashset);
+        System.out.println(linkedhashset);//-->LinkedHashSet is keep the order as it is!![100, 10, 7, 4, 8]
 
         System.out.println("&&&&&&&&&&&&&&&&&&&");
         SortedSet<Integer> list7=new TreeSet<>();
