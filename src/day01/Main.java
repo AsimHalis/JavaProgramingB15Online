@@ -1,5 +1,7 @@
 package day01; //
 
+import java.util.Scanner;
+
 public class Main {
     // class is the most fundamental building block of your source code
 
@@ -12,6 +14,12 @@ public class Main {
         //System  and system are very different thing in java!
         System.out.println("Hello World");
 
+        Scanner scan=new Scanner(System.in);
+        System.out.println("input your age");
+        int age= scan.nextInt();
+      //  System.out.println("input your name");
+        String name=scan.next();
+        System.out.println("your age :"+age+"  your name is :"+name);
 
     }
 }
