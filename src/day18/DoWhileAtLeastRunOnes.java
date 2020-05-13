@@ -13,7 +13,7 @@ public class DoWhileAtLeastRunOnes {
 
         int x=1000;
         do{
-            System.out.println("KEEP GOING");
+            System.out.println("KEEP GOING  AT LEAST ONE");
         }while(x<5);
         System.out.println("THE END");
         while (x<5){
