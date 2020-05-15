@@ -42,7 +42,7 @@ public class Encapsulation {
 
 }
 /*
- short cut getterand setter:
+ short cut getter and setter:
  1.declare private dates
  2.right click-->source-->Generate getter and setters
  3.select the instance variable

@@ -10,7 +10,7 @@ package day45_OOP_Inheritance;
  *  *
  *  *      public class   A(dog)      extend      B(Animal)
  *  *                      sub                       super
- *  * sub class(A): it's also called child class! su class can inherit the
+ *  * sub class(A): it's also called child class! so class can inherit the
  *  *            visible and protected features from the super class!
  *  * super class(B):it's also called parent class,
  *  * super class cannot inherit any feature from the sub class
