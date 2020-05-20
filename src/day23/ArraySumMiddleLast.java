@@ -18,9 +18,11 @@ public class ArraySumMiddleLast {
             System.out.print(number[x] + " ");
         }
         System.out.println();
-        //task:
-        System.out.println(number[number.length - 1]);//last item
-        System.out.println(number[number.length / 2]);//in the middle
+        //task1:last number
+        System.out.println(number[number.length - 1]);
+        //Task2:in the middle
+        System.out.println(number[number.length / 2]);
+        //Task3: sum
         int sum = 0;
         for (int x = 0; x <= number.length - 1; ++x) {
             sum = sum + number[x];

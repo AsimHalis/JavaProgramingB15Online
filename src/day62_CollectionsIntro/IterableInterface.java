@@ -12,15 +12,18 @@ public class IterableInterface {
                 list.remove(i);
             }
         }
-        System.out.println(list);
+        //Task: iterater metod u kullanarak tum duplicate leri kaldirabiliyoruz!!
+        System.out.println(list);//[1, 2, 3, 3, 4, 5, 6, 7, 1]
         System.out.println("%%%%%%%%%%%%%%%");
         List<Integer> list2= new ArrayList<Integer>();
-        list2.addAll(Arrays.asList(1,1,1,2,3,3,4,5,6,7,1,1,1));
+        list2.addAll(Arrays.asList(1));
        Iterator<Integer> it= list2.iterator();
+
         boolean a=it.hasNext();//returns boolean- true or false
         System.out.println(a);//true
         System.out.println(it.next());//1
-        boolean b=it.hasNext();//false
+        boolean b=it.hasNext();
+        System.out.println(b);//false
 
         System.out.println("^^^^^^^^^^^^^^^^^^^^^^^");
 
@@ -36,6 +39,7 @@ public class IterableInterface {
         }
         System.out.println(list3);//[2, 3, 3, 4, 5, 6, 7]
         System.out.println("&&&&&&&&&&&&&&&&&&&&&&&&&&&&");
+
         Set<Integer> set=new LinkedHashSet<Integer>();
         set.addAll(Arrays.asList(10,20));
 
@@ -52,10 +56,10 @@ public class IterableInterface {
                              System.out.println(iterate.next());//NoSuchElementException
                              System.out.println("try block");
                              }
-                             catch (Exception e){
+                          catch (Exception e){
                              System.out.println("catch block");
                              }
-        System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@");
+
 
     }
 }

@@ -1,4 +1,4 @@
-package day41_Singleton;
+package day43_Singleton;
 
 public class Test {
     public static void main(String[] args) {

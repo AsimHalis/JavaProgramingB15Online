@@ -1,4 +1,4 @@
-package day41_Singleton;
+package day43_Singleton;
 
 public class Singleton {
     /**Sometime we want to make a class that only generate single oblect
